@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Solution items/">
+    <File Path=".gitignore" />
     <File Path="README.md" />
   </Folder>
   <Project Path="AutumnCodeWalk_2026/AutumnCodeWalk_2026.fsproj" />
