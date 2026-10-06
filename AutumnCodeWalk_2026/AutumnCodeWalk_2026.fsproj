@@ -14,6 +14,14 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Compile Include="problem0\Problem0.fs" />
+    <Content Include="Problem1\input_1.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Problem1\sample_input_1.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="problem1\sample_input_2.txt" />
+    <Compile Include="Problem1\Problem1.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
