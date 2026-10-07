@@ -5,3 +5,7 @@ printfn "Problem 0: %d" problem0
 // Problem 1
 let problem1 = Problem1.execute
 printfn "Problem 1: %d" problem1
+
+// Problem 2
+let problem2 = Problem2.execute
+printfn "Problem 2: %d" problem2
