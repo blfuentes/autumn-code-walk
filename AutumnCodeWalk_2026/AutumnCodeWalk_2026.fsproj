@@ -26,6 +26,10 @@
     <Content Include="problem2\input_2.txt" />
     <Content Include="problem2\sample_input_2.txt" />
     <Compile Include="problem2\Problem2.fs" />
+    <Folder Include="Problem3\" />
+    <Content Include="problem3\input_3.txt" />
+    <Content Include="problem3\sample_input_3.txt" />
+    <Compile Include="problem3\Problem3.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
