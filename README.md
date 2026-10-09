@@ -8,7 +8,7 @@ https://autumncodewalk.github.io/
 # Events
 🍂 pending 🥾 done
 ## 2026
-🥾🥾🥾🥾🍂4/5
+🥾🥾🥾🥾🥾5/5
 
 | Problem | Solution |
 |---|---|
@@ -16,3 +16,4 @@ https://autumncodewalk.github.io/
 | Problem 1 | [F#](./AutumnCodeWalk_2026/Problem1/Problem1.fs)
 | Problem 2 | [F#](./AutumnCodeWalk_2026/Problem2/Problem2.fs)
 | Problem 3 | [F#](./AutumnCodeWalk_2026/Problem3/Problem3.fs)
+| Problem 4 | [F#](./AutumnCodeWalk_2026/Problem4/Problem4.fs)

@@ -23,13 +23,29 @@
     <Content Include="problem1\sample_input_2.txt" />
     <Compile Include="Problem1\Problem1.fs" />
     <Folder Include="Problem2\" />
-    <Content Include="problem2\input_2.txt" />
-    <Content Include="problem2\sample_input_2.txt" />
+    <Content Include="problem2\input_2.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="problem2\sample_input_2.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Compile Include="problem2\Problem2.fs" />
     <Folder Include="Problem3\" />
-    <Content Include="problem3\input_3.txt" />
-    <Content Include="problem3\sample_input_3.txt" />
+    <Content Include="problem3\input_3.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="problem3\sample_input_3.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Compile Include="problem3\Problem3.fs" />
+    <Folder Include="Problem4\" />
+    <Content Include="problem4\input_4.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="problem4\sample_input_4.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Compile Include="problem4\Problem4.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

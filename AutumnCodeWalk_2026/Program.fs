@@ -13,3 +13,7 @@ printfn "Problem 2: %d" problem2
 // Problem 3
 let problem3 = Problem3.execute
 printfn "Problem 3: %d" problem3
+
+// Problem 4
+let problem4 = Problem4.execute
+printfn "Problem 4: %d" problem4
